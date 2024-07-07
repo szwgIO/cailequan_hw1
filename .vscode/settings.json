@@ -17,4 +17,10 @@
             "priority": 4
         }
     ]
+    ,"cmake.generator": "MinGW Makefiles",
+    "files.associations": {
+        "algebra.h": "c"
+    }
+    ,"-std=c99"
+
 }
